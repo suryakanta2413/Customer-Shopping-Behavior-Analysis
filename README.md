@@ -1,17 +1,71 @@
-# Customer-Shopping-Behavior-Analysis
-Developed an end-to-end business intelligence project analyzing customer shopping behavior using a real-world retail database. The goal was to uncover actionable insights across revenue patterns, discount efficiency, product performance, and customer lifecycle segmentation.
+🛍️ Customer Shopping Behavior Analysis
 
-What I did:
+An end-to-end Business Intelligence project uncovering actionable insights from retail data — spanning revenue patterns, discount efficiency, product performance, and customer lifecycle segmentation.
 
-Wrote 10 structured SQL queries to extract insights — revenue by gender & age group, subscriber vs. non-subscriber spending, shipping preferences, repeat buyer patterns, and top products by category using window functions.
-Used Python (Pandas) for data cleaning, aggregation, and statistical analysis to identify high-value discount users and customer segments (New, Returning, Loyal).
-Built an interactive Power BI dashboard to visualize KPIs including revenue breakdowns, product ratings, discount rate trends, and customer segmentation.
 
-Key findings:
+📌 Project Overview
+This project dives deep into a real-world retail dataset to answer critical business questions:
 
-Female customers (ages 25–44) are the primary revenue drivers.
-Subscribed customers spend significantly more and show stronger retention.
-Express shipping users correlate with higher purchase amounts.
-Smart discount targeting can protect margins while rewarding high-value customers.
+Who are the highest-value customers, and what drives their spending?
+How effective are discount strategies in retaining customers?
+Which products and categories generate the most revenue?
+What shipping preferences signal higher purchase intent?
 
-Tools & Skills: Python · Pandas · SQL · Power BI · Data Storytelling · Customer Analytics · Business Intelligence
+The pipeline covers everything from raw SQL extraction → Python-based analysis → interactive Power BI dashboards.
+
+🗂️ Repository Structure
+📦 Customer-Shopping-Behavior-Analysis
+├── 📁 data/               # Raw and cleaned datasets
+├── 📁 sql/                # 10 structured SQL query files
+├── 📁 notebooks/          # Python (Pandas) analysis notebooks
+├── 📁 dashboard/          # Power BI (.pbix) dashboard file
+├── 📁 visuals/            # Exported charts and dashboard screenshots
+└── README.md
+
+🔧 Tech Stack
+ToolPurposeSQLData extraction & business logic queriesPython (Pandas)Data cleaning, aggregation & segmentationPower BIInteractive KPI dashboard & storytelling
+
+🧠 What I Built
+🗃️ SQL — 10 Structured Business Queries
+Designed queries to extract targeted insights, including:
+
+Revenue breakdown by gender & age group
+Subscriber vs. non-subscriber average spend comparison
+Shipping preference analysis tied to purchase amounts
+Repeat buyer pattern identification
+Top products per category using window functions 
+
+🐍 Python — Data Analysis Pipeline
+
+Cleaned and standardized raw retail data
+Aggregated customer-level metrics for segmentation
+Classified customers into lifecycle stages:
+
+🆕 New — First-time buyers
+🔄 Returning — 2–4 purchases
+💎 Loyal — 5+ purchases
+
+
+Identified high-value discount users to guide smart targeting
+
+📊 Power BI — Interactive Dashboard
+Built a multi-page dashboard visualizing:
+
+Revenue breakdowns by gender, age, and category
+Subscription impact on spend & retention
+Discount rate trends vs. margin impact
+Customer segmentation distribution
+Product ratings and performance KPIs
+
+
+💡 Key Findings
+👩 Top Revenue SegmentFemale customers aged 25–44 are the primary revenue drivers
+📬 SubscribersSubscribed customers spend significantly more and show stronger retention
+🚀 Express ShippingCorrelates with higher purchase amounts — signals purchase urgency
+🎯 Discount StrategySmart targeting can protect margins while rewarding high-value customers
+
+📸 Dashboard Preview
+
+
+
+📸 Dashboard Preview
