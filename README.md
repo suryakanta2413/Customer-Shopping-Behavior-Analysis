@@ -65,5 +65,4 @@ Product ratings and performance KPIs
 🎯 Discount StrategySmart targeting can protect margins while rewarding high-value customers
 
 📸 Dashboard Preview
-
-https://github.com/suryakanta2413/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shoping%20Behaviour%20Analysis.png
+(https://github.com/suryakanta2413/Customer-Shopping-Behavior-Analysis/blob/main/Customer%20Shoping%20Behaviour%20Analysis.png)
