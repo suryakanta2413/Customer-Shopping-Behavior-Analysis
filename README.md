@@ -15,11 +15,11 @@ The pipeline covers everything from raw SQL extraction → Python-based analysis
 
 🗂️ Repository Structure
 📦 Customer-Shopping-Behavior-Analysis
-├── 📁 data/               # Raw and cleaned datasets
-├── 📁 sql/                # 10 structured SQL query files
-├── 📁 notebooks/          # Python (Pandas) analysis notebooks
-├── 📁 dashboard/          # Power BI (.pbix) dashboard file
-├── 📁 visuals/            # Exported charts and dashboard screenshots
+├── 📁 data/               # Raw and cleaned datasets.
+├── 📁 sql/                # 10 structured SQL query files.
+├── 📁 notebooks/          # Python (Pandas) analysis notebooks.
+├── 📁 dashboard/          # Power BI (.pbix) dashboard file.
+├── 📁 visuals/            # Exported charts and dashboard screenshots.
 └── README.md
 
 🔧 Tech Stack
